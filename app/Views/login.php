@@ -42,7 +42,7 @@
 					<!--begin::Logo-->
 					<a href="../../demo5/dist/index.html" class="mb-12">
 						<h1 class="h-15px logo" style="color:#000">
-								Rift Valley Lodge
+								Rift Valley Lodge No. 4788 E.C.
 							</h1>
 					</a>
 					<!--end::Logo-->
